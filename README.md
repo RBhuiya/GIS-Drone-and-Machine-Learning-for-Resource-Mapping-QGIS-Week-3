@@ -1,1 +1,1 @@
-# GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-3
+# 🌏📗 GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-3 🗾
