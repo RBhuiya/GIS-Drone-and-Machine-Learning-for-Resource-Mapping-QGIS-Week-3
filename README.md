@@ -6,13 +6,13 @@ In Week 3 of this project, we zoomed into the West Zone of India, specifically t
 This step prepares the foundation for resource mapping using drone imagery and machine learning algorithms in later stages.
 ![A-3-3](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-3/blob/3772469c1f05678a83b99644f667a6006e0065d7/Screenshots/A-3-3.png)
 
-🔍 Objective
+# 🔍 Objective
 - To focus on zonal-level resource mapping.
 - To extract and visualize district-level data from Gujarat and Maharashtra.
 - To integrate high-resolution elevation data using Mapzen Global Terrain.
 - To prepare the terrain data for use in drone analysis and ML classification.
 
-✨ Key Features
+# ✨ Key Features
 - Focused spatial analysis of Gujarat & Maharashtra within India’s West Zone.
 - District-wise data extraction and mapping.
 - Integration of Mapzen Global Terrain layer for elevation details.
@@ -20,14 +20,14 @@ This step prepares the foundation for resource mapping using drone imagery and m
 - Use of composite elevation tiles from open sources.
 - Ready-to-use layers for further machine learning integration.
 
-🎯 Objective
+# 🎯 Objective
 - To narrow the focus of the resource mapping project to India’s West Zone for more region-specific analysis.
 - To select and analyze the states of Gujarat and Maharashtra based on their geographical and resource diversity.
 - To identify and visualize sub-regional administrative units (districts) within the selected states for detailed mapping.
 - To integrate elevation data using the Mapzen Global Terrain plugin for enhancing topographical understanding.
 - To lay the groundwork for integrating drone data and machine learning models in future phases of the project.
 
-🛠️ Project Steps
+# 🛠️ Project Steps
 1. Imported the base map and India shapefile into QGIS.
 2. Selected the West Zone and isolated Gujarat and Maharashtra using attribute filtering.
 3. Extracted district boundaries from respective state shapefiles.
@@ -53,13 +53,15 @@ This step prepares the foundation for resource mapping using drone imagery and m
         - Use QGIS query tools to view district codes and states.
         - Utilize QGIS analysis tools to study district borders and how they share boundaries with neighboring districts or states.
 
-✅ Benefits of This Analysis
+# ✅ Benefits of This Analysis
 - Enables targeted regional mapping by breaking down zones into smaller administrative units.
 - Elevation data supports terrain-sensitive planning, such as for agriculture, watershed, or infrastructure deployment.
 - Foundation for ML-based resource classification, where elevation data can be a key feature.
 - Valuable for planning drone survey routes based on terrain complexity.
 - Promotes use of open-source tools and data for large-scale geospatial analysis.
 
+# 👨‍💼Author
+Mr. Rahul Bhuiya | 4th year CSE-AIML student at MCKVIE'26🎓
 
      
   
