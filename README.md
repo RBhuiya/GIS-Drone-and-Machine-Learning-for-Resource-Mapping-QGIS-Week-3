@@ -46,7 +46,7 @@ This step prepares the foundation for resource mapping using drone imagery and m
 
 # 📝 Requirements
 - ⬇️ Install QGIS: [official website](https://qgis.org/download/) (latest version).
- 1.	Clone this repository to your local machine: 
+ 1.	Clone this repository to your local machine: https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-3/blob/main/README.md
    2.	Open QGIS, and load the states.shp and districts.shp file located in the Main (Source Data File) folder.
    3.	Explore the data:
         - View district boundaries on the map.
